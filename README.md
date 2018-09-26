@@ -2,6 +2,7 @@
 Instrukcja uruchomienia skryptu:
 
 ⦁	Przygotowanie środowiska:
+
 ⦁	Popranie i zainstalowanie java-jdk
 https://www.oracle.com/technetwork/java/javase/downloads/index.html
 
