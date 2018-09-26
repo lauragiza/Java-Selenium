@@ -12,6 +12,7 @@ Przy instalacji należy wybrać Eclipse IDE for Java Developers
 ⦁	Pobranie projektu z Github i rozpakowanie go
 
 ⦁	Uruchomienie projektu:
+
 ⦁	File -> New -> Java Project -> Należy odznaczyć „Use default location” -> Browse - należy podać lokalizację rozpakowanego projektu pobranego z Git (wybrać folder Test) i kliknąć Finish
 
 ⦁	W pliku test.java w linii kodu
@@ -28,6 +29,7 @@ po przecinku należy podać lokalizację do geckodriver.exe (znajduje się on w 
 
 
 Uwagi:
+
 ⦁	W przypadku nie zapisywania się logów należy wybrać Run –> Run Configurations -> z lewej strony rozwinąć JUnit -> wybrać Test -> przejść do zakładki Classpath z prawej strony -> kliknąć na User Entries -> Nacisnąć przycisk z prawej strony Advanced… -> OK -> Rozwinąć kolejno Test -> src -> Test -> zaznaczyć Test -> OK -> Apply -> Run
 
 ⦁	W przypadku problemu z geckodriverem (skrypt może się wcale nie uruchamiać), należy w linię kodu:
