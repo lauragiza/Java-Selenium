@@ -39,4 +39,4 @@ Zmienić na:
 System.setProperty("webdriver.firefox.marionette", "path\\geckodriver.exe"); 
 Może być to związane z wersję Firefox, skrypt był pisany dla wersji 60.
 
-⦁	W rozytorium występuje tylko plik z roszerzeniem .java natomiast pliki tekstowe nie zostały dodane,aby wszytsko działało poprawnie nalezy je dodać
+⦁	W rozytorium występuje tylko plik z roszerzeniem .java natomiast pliki tekstowe nie zostały dodaneze względu na prywatne dane, aby wszytsko działało poprawnie nalezy je dodać
