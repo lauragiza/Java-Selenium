@@ -21,7 +21,7 @@ Przy instalacji należy wybrać Eclipse IDE for Java Developers
      System.setProperty("webdriver.gecko.driver", "C:\\Users\\laura.giza\\workspace\\Test\\geckodriver.exe");
 po przecinku należy podać lokalizację do geckodriver.exe (znajduje się on w pobranym projekcie)
 
-⦁	W pliku Log4j.properties w każdym teście należy podać lokalizację, gdzie chcemy aby były zapisywane logi, przykładowo w teście Registration należy zmienić ścieżkę po znaku= 
+⦁	W pliku Log4j.properties w każdym teście należy podać lokalizację, gdzie chcemy aby były zapisywane logi należy zmienić ścieżkę po znaku= 
           
       log4j.appender.logger.File=C:\\Users\\laura.giza\\14testvod.txt
 ⦁	Należy kliknąć prawym przyciskiem myszy na Test -> Run As -> 2 JUnit Test
